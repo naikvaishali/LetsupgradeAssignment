@@ -1,0 +1,23 @@
+.titlebar{
+    height: 50px;
+    background-color: rgb(73, 72, 72);
+}
+
+.row1{
+    height: 530px;
+    background-color: rgb(117, 114, 114);
+}
+
+.text{
+    height: 80px;
+    padding: 20px 20px;
+    background-color: lightgray;
+    display: flex;
+}
+   
+.new{
+    height: 350px;
+    background-color: rgb(131, 128, 128);
+    padding: 30px 30px;
+}
+
